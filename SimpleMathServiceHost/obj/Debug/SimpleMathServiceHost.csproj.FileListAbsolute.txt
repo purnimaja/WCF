@@ -1,0 +1,8 @@
+D:\WCF\SimpleMathServiceHost\bin\Debug\SimpleMathServiceHost.exe.config
+D:\WCF\SimpleMathServiceHost\bin\Debug\SimpleMathServiceHost.exe
+D:\WCF\SimpleMathServiceHost\bin\Debug\SimpleMathServiceHost.pdb
+D:\WCF\SimpleMathServiceHost\bin\Debug\SimpleMathService.dll
+D:\WCF\SimpleMathServiceHost\bin\Debug\SimpleMathService.pdb
+D:\WCF\SimpleMathServiceHost\obj\Debug\SimpleMathServiceHost.csprojResolveAssemblyReference.cache
+D:\WCF\SimpleMathServiceHost\obj\Debug\SimpleMathServiceHost.exe
+D:\WCF\SimpleMathServiceHost\obj\Debug\SimpleMathServiceHost.pdb

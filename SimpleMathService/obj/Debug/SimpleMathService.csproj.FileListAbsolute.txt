@@ -1,0 +1,5 @@
+D:\WCF\SimpleMathService\bin\Debug\SimpleMathService.dll
+D:\WCF\SimpleMathService\bin\Debug\SimpleMathService.pdb
+D:\WCF\SimpleMathService\obj\Debug\SimpleMathService.csprojResolveAssemblyReference.cache
+D:\WCF\SimpleMathService\obj\Debug\SimpleMathService.dll
+D:\WCF\SimpleMathService\obj\Debug\SimpleMathService.pdb

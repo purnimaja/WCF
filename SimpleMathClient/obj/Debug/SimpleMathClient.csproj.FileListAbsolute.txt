@@ -1,0 +1,6 @@
+D:\WCF\SimpleMathClient\bin\Debug\SimpleMathClient.exe.config
+D:\WCF\SimpleMathClient\bin\Debug\SimpleMathClient.exe
+D:\WCF\SimpleMathClient\bin\Debug\SimpleMathClient.pdb
+D:\WCF\SimpleMathClient\obj\Debug\SimpleMathClient.csprojResolveAssemblyReference.cache
+D:\WCF\SimpleMathClient\obj\Debug\SimpleMathClient.exe
+D:\WCF\SimpleMathClient\obj\Debug\SimpleMathClient.pdb
